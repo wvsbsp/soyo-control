@@ -2,7 +2,7 @@
 control SOYO grid-tie solar inverters with ESP microcontrollers
 
 To control the Soyo 1000W/1200W Grid-Tie inverter over RS485, there are different projects here on GitHub:
-Unfortunately only closed source:
+Unfortunately the only one for the ESP is closed source:
 https://github.com/KlausLi/Esp-Soyosource-Controller
 
 Some Phython Sources and measurements
